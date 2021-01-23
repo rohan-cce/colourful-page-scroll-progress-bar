@@ -1,5 +1,5 @@
 # colourful-page-scroll-progress-bar
-###### **Here is the link of [Live Demo](https://rohan-cce.github.io/colourful-page-scroll-progress-bar/)**
+###### **Here is the link of [Live Demo](https://rohan-cce.github.io/colourful-page-scroll-progress-bar/)** ######
 ## Technology Stack Used
 
 ![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
